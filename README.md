@@ -1,6 +1,6 @@
 # The-Sparks-Foundation_GRIP
 
-#Data Science and Business Analytics Internship
+# Data Science and Business Analytics Internship
 
 Task 1:
 
